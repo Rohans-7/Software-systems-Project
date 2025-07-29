@@ -11,7 +11,7 @@ This **Bank Management System** simulates real-world banking operations, allowin
 ### 🌟 Features
 
 1. **Role-Based Access Control**:
-   - **Customer**: Account details, transaction history, and fund transfers.
+   - **Customer**: Account details, transaction history, loan application and fund transfers.
    - **Bank Employee**: Customer management and loan processing.
    - **Manager/Administrator**: Oversee transactions, accounts, and ensure data integrity.
   
